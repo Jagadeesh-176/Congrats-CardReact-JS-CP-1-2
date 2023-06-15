@@ -1,0 +1,11 @@
+/* Write your code here. */
+.main-container {
+    height: 100vh;
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+}
+
+.card{
+    height: 65vh;
+    width: 35vw;
+    background-color: #cffafe;
+}
